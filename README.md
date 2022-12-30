@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KajaWilbik&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KajaWilbik&theme=vue-dark&hide_border=true)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KajaWilbik)](https://github.com/KajaWilbik/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=KajaWilbik)]
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KajaWilbik&icon=0&color=0)](https://visitcount.itsvg.in)
