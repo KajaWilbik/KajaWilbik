@@ -2,7 +2,7 @@
 <h3 align="center">Frontend developer with passion for traveling</h3>
 
 # ✯ About Me:
-🔭 I’m currently working on **the final project at Technigo boot camp**<br><br>🌱 I’m currently learning  **CS50x (CS50's Introduction to Computer Science) and CS50S (CS50's Introduction to Programming with Scratch)  by Harvard University**<br><br>👨‍💻 All of my projects are available at **https://kajawilbikporfolio.netlify.app/** as well Scratch projects you can find at **https://scratch.mit.edu/users/codingSheElf/projects/**
+🔭 I’m currently learning  **CS50x (CS50's Introduction to Computer Science) and CS50S (CS50's Introduction to Programming with Scratch)  by Harvard University**<br><br>👨‍💻 All of my projects are available at **https://kajawilbikporfolio.netlify.app/** as well Scratch projects you can find at **https://scratch.mit.edu/users/codingSheElf/projects/**
 
 
 ## 🌐 Connect with me:
