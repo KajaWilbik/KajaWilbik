@@ -14,7 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=KajaWilbik&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KajaWilbik&theme=vue-dark&hide_border=true)<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KajaWilbik&&size_weight=0.5&count_weight=0.5&theme=vue-dark&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KajaWilbik&icon=0&color=0)](https://visitcount.itsvg.in)
